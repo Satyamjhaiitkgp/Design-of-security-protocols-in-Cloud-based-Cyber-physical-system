@@ -1,4 +1,4 @@
-package CA;
+package CentralAuthority;
 
 import java.io.DataInputStream;
 import java.io.IOException;
